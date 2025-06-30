@@ -464,19 +464,19 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@angular/platform-browser@npm:^20.0.1":
-  version: 20.0.1
-  resolution: "@angular/platform-browser@npm:20.0.1"
+"@angular/platform-browser@npm:^20.0.5":
+  version: 20.0.5
+  resolution: "@angular/platform-browser@npm:20.0.5"
   dependencies:
     tslib: "npm:^2.3.0"
   peerDependencies:
-    "@angular/animations": 20.0.1
-    "@angular/common": 20.0.1
-    "@angular/core": 20.0.1
+    "@angular/animations": 20.0.5
+    "@angular/common": 20.0.5
+    "@angular/core": 20.0.5
   peerDependenciesMeta:
     "@angular/animations":
       optional: true
-  checksum: 10c0/764e0e032542d605426348ed4dae52ef776b5fbd65e13ccaa4b869ff93a7757afaa37a8c2f16940838c6dd3e936788e860b66145105ad21307fb9cc3ca1230f4
+  checksum: 10c0/44c1add8d39e738906cecd5e0efa9a84033b17dc452b44ed076aab2850d0024a5771e9fc4e00b558a2947ae3a2ad9660e7fd2ba35d35a4944d76d87403e28743
   languageName: node
   linkType: hard
 
@@ -9681,7 +9681,7 @@ __metadata:
     "@angular/core": "npm:^20.0.1"
     "@angular/forms": "npm:^20.0.1"
     "@angular/material": "npm:^20.0.2"
-    "@angular/platform-browser": "npm:^20.0.1"
+    "@angular/platform-browser": "npm:^20.0.5"
     "@angular/platform-browser-dynamic": "npm:^20.0.1"
     "@angular/router": "npm:^20.0.1"
     "@cypress/schematic": "npm:3.0.0"
