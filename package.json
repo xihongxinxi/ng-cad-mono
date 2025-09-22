@@ -40,7 +40,7 @@
     "@angular/material": "^20.0.2",
     "@angular/platform-browser": "^20.0.1",
     "@angular/platform-browser-dynamic": "^20.0.1",
-    "@angular/router": "^20.0.1",
+    "@angular/router": "^20.3.1",
     "@lucilor/cad-viewer": "workspace:^",
     "@lucilor/utils": "workspace:^",
     "browser-image-compression": "^2.0.2",
